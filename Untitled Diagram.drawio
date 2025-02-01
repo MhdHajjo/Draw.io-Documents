@@ -1,0 +1,196 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="SiA4Up_DboH-mfQ2UyN5">
+    <mxGraphModel dx="2585" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="11GlhHjNstRK2XUEGAY2-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="11GlhHjNstRK2XUEGAY2-39" target="11GlhHjNstRK2XUEGAY2-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="320" />
+              <mxPoint x="830" y="326" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-39" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="490" y="180" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="230" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="11GlhHjNstRK2XUEGAY2-1" target="11GlhHjNstRK2XUEGAY2-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-1" value="sender&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="380" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=3;" parent="1" source="11GlhHjNstRK2XUEGAY2-2" target="11GlhHjNstRK2XUEGAY2-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="350" />
+              <mxPoint x="298" y="350" />
+              <mxPoint x="298" y="510" />
+              <mxPoint x="842" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-2" value="Puplic key" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#D79B00;strokeWidth=3;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="11GlhHjNstRK2XUEGAY2-3" target="11GlhHjNstRK2XUEGAY2-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="180" />
+              <mxPoint x="326" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-3" value="Private&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;key&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="130" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-5" value="RSA Keys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="155" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11GlhHjNstRK2XUEGAY2-6" target="11GlhHjNstRK2XUEGAY2-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-6" value="body content" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="50" y="540" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#a20025;strokeWidth=3;" parent="1" source="11GlhHjNstRK2XUEGAY2-8" target="11GlhHjNstRK2XUEGAY2-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="370" />
+              <mxPoint x="200" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="11GlhHjNstRK2XUEGAY2-8" target="11GlhHjNstRK2XUEGAY2-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="150" />
+              <mxPoint x="365" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-8" value="AES Key" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="20" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-16" value="Reciever" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1075" y="390" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11GlhHjNstRK2XUEGAY2-20" target="11GlhHjNstRK2XUEGAY2-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-20" value="AES&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Encrypted content&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;strokeWidth=4;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="160" y="535" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11GlhHjNstRK2XUEGAY2-27" target="11GlhHjNstRK2XUEGAY2-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="345" />
+              <mxPoint x="440" y="266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-27" value="&amp;nbsp;AES Key Encrypted by RSA Private key" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#D79B00;fontColor=#a20025;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="310" y="290" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="160" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="11GlhHjNstRK2XUEGAY2-33" target="11GlhHjNstRK2XUEGAY2-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="210" />
+              <mxPoint x="810" y="266" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-33" value="Puplic key" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" parent="1" source="11GlhHjNstRK2XUEGAY2-34" target="11GlhHjNstRK2XUEGAY2-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="320" as="sourcePoint" />
+            <mxPoint x="880" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-34" value="Private&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;key&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1060" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-35" value="RSA Keys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#BD7000;fillColor=#f0a30a;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1035" y="130" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AES encrypted by Reciever RSA&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#C9DBC8;strokeWidth=9;fontSize=14;fontStyle=1;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="562.5" y="200" width="127.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-40" value="Message to Send" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="572.5" y="150" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="11GlhHjNstRK2XUEGAY2-42" target="11GlhHjNstRK2XUEGAY2-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-42" value="AES&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Encrypted content&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;strokeWidth=4;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="595" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-44" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 50%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;this step that the reciever decrypt the key using the sender public key and be sure the message is not modified in the way&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="80" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-45" value="" style="shape=link;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="40" y="380" as="sourcePoint" />
+            <mxPoint x="140" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-47" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="800" as="sourcePoint" />
+            <mxPoint x="790" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-48" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="790" as="sourcePoint" />
+            <mxPoint x="460" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="11GlhHjNstRK2XUEGAY2-50" target="11GlhHjNstRK2XUEGAY2-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="935" y="478" />
+              <mxPoint x="870" y="478" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-50" value="&lt;font&gt;Decrypted AES Key by reciever RSA&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="880" y="310" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="11GlhHjNstRK2XUEGAY2-58" target="11GlhHjNstRK2XUEGAY2-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-58" value="&lt;font&gt;Decrypted AES by Sender Public key&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1;dashed=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="830" y="555" width="80" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-61" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 50%;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;this step that the reciever decrypt the key using the sender public key and be sure the message is not modified in the way&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="910" y="560.5" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="11GlhHjNstRK2XUEGAY2-62" target="11GlhHjNstRK2XUEGAY2-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="730" />
+              <mxPoint x="1140" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11GlhHjNstRK2XUEGAY2-62" value="&lt;div&gt;Decrypted&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Content&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="830" y="690" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
